@@ -1,35 +1,19 @@
-Landed by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Welcome to my Portfolio Website. 
+This contains projects carried out so far as a Data Analyst 
+Unconvering valauable insights and providing solutions.
 
+# MAJOR PROJECTS
+Technology, Healthcare, Customer Service and E-Commerce
 
-A dark, slick, modern, responsive, adjective-drenched design built around an extremely
-dynamic landing page (scroll that mofo!). Inspired by Big Picture, another design
-of mine with a similarish feel/flow, only this time I took it waaaaaay further and
-actually made it multipurpose (versus copping out and making it a one pager like I
-did last time ;) Includes multiple pages, a bunch of pre-styled elements, and all
-its Sass sources.
+# LIST OF PROJECTS
+## Techtronix Innovations
+Hi-Tech Business Analysis Using PowerBI
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## T.T Incorporation
+Optimization Strategies For Inventory Management, leveraging PostgreSQL and Microsoft Excel
 
-(* = Not included)
+## FlexTrade Online Shopping App
+User Experience(UX) Analysis with Microsoft Excel tool; leveraging on Pivort Tables and Charts.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## StrideStyle
+Retailers Analysis using Power BI
