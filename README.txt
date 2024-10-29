@@ -17,3 +17,9 @@ User Experience(UX) Analysis with Microsoft Excel tool; leveraging on Pivort Tab
 
 ## StrideStyle
 Retailers Analysis using Power BI
+
+## City Hospital
+Hospital Transaction Using PowerBI
+
+## DigitalPath Innovations
+A/B Test Analysis with Tableau
